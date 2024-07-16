@@ -1,1 +1,1 @@
-# -rg-assignments
+# rg-assignments
